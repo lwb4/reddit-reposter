@@ -4,7 +4,11 @@ This script dredges up an old repost from a subreddit of your choosing, makes su
 
 It WILL NOT work on new accounts; Reddit's spam filter will automatically block your posts. However, it will work on an already established account that you have succesfully posted/commented/lurked from for at least, say, a month or so.
 
-NOTE: I do not personally support reposts. This script exists for social experiments only. 
+Success story: I opened up a terminal, typed in "python repost.py AdviceAnimals" and went to school. Three hours later, I was on the front page or /r/all.
+
+![This is happening more the older I get](http://i.imgur.com/MAncgmJ.png)
+
+[My post](https://www.reddit.com/r/AdviceAnimals/comments/5zjeqj/this_is_happening_more_the_older_i_get/) was an exact repost of [this post](https://www.reddit.com/r/AdviceAnimals/comments/32eigr/this_is_happening_more_the_older_i_get/), created by /u/xsited1, one year ago.
 
 * * *
 
