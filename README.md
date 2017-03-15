@@ -4,6 +4,8 @@ This script dredges up an old repost from a subreddit of your choosing, makes su
 
 It WILL NOT work on new accounts; Reddit's spam filter will automatically block your posts. However, it will work on an already established account that you have succesfully posted/commented/lurked from for at least, say, a month or so.
 
+NOTE: I do not personally support reposts. This script exists for social experiments only. 
+
 * * *
 
 To use:
@@ -21,4 +23,4 @@ To use:
 
 * * *
 
-I built this after reading through [OAuth Quick Start](https://github.com/reddit/reddit/wiki/OAuth2-Quick-Start-Example) and the [Official Reddit API docs](https://www.reddit.com/dev/api/) -- and, of course, a lot of googling and Stack Overflow.
+I built this after reading through [OAuth Quick Start](https://github.com/reddit/reddit/wiki/OAuth2-Quick-Start-Example) and the [Official Reddit API docs](https://www.reddit.com/dev/api/) -- and, of course, a lot of googling and Stack Overflow. I also used [Dirty Markup](https://dirtymarkup.com/) extensively for prettifying returned JSON data.
