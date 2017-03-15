@@ -1,6 +1,6 @@
-Just how easy is it to get karma on Reddit?
+# Just how easy is it to get karma on Reddit?
 
-This morning, I opened up a terminal, typed in "python repost.py AdviceAnimals" and went to school. Three hours later, I was on the front page or /r/all.
+This morning, I opened up a terminal, typed in `python repost.py AdviceAnimals` and went to school. **Three hours later, I was on the front page or /r/all.**
 
 ![This is happening more the older I get](http://i.imgur.com/MAncgmJ.png)
 
@@ -10,7 +10,7 @@ This morning, I opened up a terminal, typed in "python repost.py AdviceAnimals" 
 
 * * *
 
-Would you like some free and easy karma?
+# Would you like some free and easy karma?
 1. Log in to your account at reddit.com
 2. Go to [your app preferences](https://www.reddit.com/prefs/apps)
 3. Click the "Create a new app" button at the bottom of the page.
