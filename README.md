@@ -8,7 +8,11 @@ This morning, I opened up a terminal, typed in `python repost.py AdviceAnimals` 
 
 Eventually, my repost *surpassed* the original post in number of upvotes, ending up around 50k.
 
-`repost.py` dredges up an old repost from a subreddit of your choosing, makes sure it's at least 200 days old, and reposts it on your account. It WILL NOT work on new accounts; Reddit's spam filter will automatically block your posts. However, it will work on an already established account that you have succesfully posted/commented/lurked from for at least, say, a month or so.
+* * *
+
+The premise is simple. `repost.py` dredges up an old repost from a subreddit of your choosing, makes sure it's at least 200 days old, and reposts it on your account. 
+
+Note that this will not work on new accounts -- Reddit's spam filter will automatically block the posts. However, it should work on any account older than a few weeks, with at least a few comments and/or posts.
 
 * * *
 
