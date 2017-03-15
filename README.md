@@ -1,5 +1,3 @@
-# reposter
-
 Just how easy is it to get karma on Reddit?
 
 This morning, I opened up a terminal, typed in "python repost.py AdviceAnimals" and went to school. Three hours later, I was on the front page or /r/all.
