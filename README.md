@@ -8,6 +8,10 @@ This morning, I opened up a terminal, typed in `python repost.py AdviceAnimals` 
 
 Eventually, my repost *surpassed* the original post in number of upvotes, ending up around 50k.
 
+I posted on /r/programming, expecting at least a mildly positive response, (and was belittled)[https://lincoln-b.github.io/reddit-reposter/].
+
+Then, I was banned from /r/AdviceAnimals. I suppose it was just a matter of time.
+
 * * *
 
 The premise is simple. `repost.py` dredges up an old repost from a subreddit of your choosing, makes sure it's at least 200 days old, and reposts it on your account. 
