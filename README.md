@@ -20,6 +20,10 @@ Note that this will not work on new accounts -- Reddit's spam filter will automa
 
 * * *
 
+Contact: I am /u/chalcidfly, and my sub is https://www.reddit.com/r/redditscripting/
+
+* * *
+
 # Would you like some free and easy karma?
 1. Log in to your account at reddit.com
 2. Go to [your app preferences](https://www.reddit.com/prefs/apps)
